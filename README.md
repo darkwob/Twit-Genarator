@@ -1,3 +1,3 @@
-# react-tdgv2f
+# Twitt Genarator
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-tdgv2f)
+Simple a Twitt genarator
